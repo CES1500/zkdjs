@@ -200,7 +200,7 @@ color: #fff !important;
 }
 
 .demo-1 .large-header {
-	background-image: url('https://api.ksdjs.tk/api');
+	background-image: url('https://api.ksdjs.tk/api');   /*此为页面背景设置行调用了api接口如需更改背景只需更改为图片的地址即可 */
 	background-position: center bottom;
 }
 .w3ls-main-title {
